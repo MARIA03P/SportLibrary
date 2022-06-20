@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Project1/1.0.0": {
+        "dependencies": {
+          "SportLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Project1.dll": {}
+        }
+      },
+      "SportLibrary/1.0.0": {
+        "runtime": {
+          "SportLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SportLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

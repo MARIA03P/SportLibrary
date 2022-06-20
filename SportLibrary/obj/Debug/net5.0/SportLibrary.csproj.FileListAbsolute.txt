@@ -1,0 +1,36 @@
+C:\Users\Елена Третьякова\source\repos\SportLibrary\bin\Debug\net5.0\SportLibrary.deps.json
+C:\Users\Елена Третьякова\source\repos\SportLibrary\bin\Debug\net5.0\SportLibrary.dll
+C:\Users\Елена Третьякова\source\repos\SportLibrary\bin\Debug\net5.0\ref\SportLibrary.dll
+C:\Users\Елена Третьякова\source\repos\SportLibrary\bin\Debug\net5.0\SportLibrary.pdb
+C:\Users\Елена Третьякова\source\repos\SportLibrary\obj\Debug\net5.0\SportLibrary.csproj.AssemblyReference.cache
+C:\Users\Елена Третьякова\source\repos\SportLibrary\obj\Debug\net5.0\SportLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена Третьякова\source\repos\SportLibrary\obj\Debug\net5.0\SportLibrary.AssemblyInfoInputs.cache
+C:\Users\Елена Третьякова\source\repos\SportLibrary\obj\Debug\net5.0\SportLibrary.AssemblyInfo.cs
+C:\Users\Елена Третьякова\source\repos\SportLibrary\obj\Debug\net5.0\SportLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Елена Третьякова\source\repos\SportLibrary\obj\Debug\net5.0\SportLibrary.dll
+C:\Users\Елена Третьякова\source\repos\SportLibrary\obj\Debug\net5.0\ref\SportLibrary.dll
+C:\Users\Елена Третьякова\source\repos\SportLibrary\obj\Debug\net5.0\SportLibrary.pdb
+C:\Users\gereb\Downloads\SportLibrary\SportLibrary\bin\Debug\net5.0\SportLibrary.deps.json
+C:\Users\gereb\Downloads\SportLibrary\SportLibrary\bin\Debug\net5.0\SportLibrary.dll
+C:\Users\gereb\Downloads\SportLibrary\SportLibrary\bin\Debug\net5.0\ref\SportLibrary.dll
+C:\Users\gereb\Downloads\SportLibrary\SportLibrary\bin\Debug\net5.0\SportLibrary.pdb
+C:\Users\gereb\Downloads\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.csproj.AssemblyReference.cache
+C:\Users\gereb\Downloads\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gereb\Downloads\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.AssemblyInfoInputs.cache
+C:\Users\gereb\Downloads\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.AssemblyInfo.cs
+C:\Users\gereb\Downloads\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gereb\Downloads\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.dll
+C:\Users\gereb\Downloads\SportLibrary\SportLibrary\obj\Debug\net5.0\ref\SportLibrary.dll
+C:\Users\gereb\Downloads\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.pdb
+C:\Users\Елена Третьякова\Downloads\SportLibrary\SportLibrary\SportLibrary\bin\Debug\net5.0\SportLibrary.deps.json
+C:\Users\Елена Третьякова\Downloads\SportLibrary\SportLibrary\SportLibrary\bin\Debug\net5.0\SportLibrary.dll
+C:\Users\Елена Третьякова\Downloads\SportLibrary\SportLibrary\SportLibrary\bin\Debug\net5.0\ref\SportLibrary.dll
+C:\Users\Елена Третьякова\Downloads\SportLibrary\SportLibrary\SportLibrary\bin\Debug\net5.0\SportLibrary.pdb
+C:\Users\Елена Третьякова\Downloads\SportLibrary\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.csproj.AssemblyReference.cache
+C:\Users\Елена Третьякова\Downloads\SportLibrary\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена Третьякова\Downloads\SportLibrary\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.AssemblyInfoInputs.cache
+C:\Users\Елена Третьякова\Downloads\SportLibrary\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.AssemblyInfo.cs
+C:\Users\Елена Третьякова\Downloads\SportLibrary\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Елена Третьякова\Downloads\SportLibrary\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.dll
+C:\Users\Елена Третьякова\Downloads\SportLibrary\SportLibrary\SportLibrary\obj\Debug\net5.0\ref\SportLibrary.dll
+C:\Users\Елена Третьякова\Downloads\SportLibrary\SportLibrary\SportLibrary\obj\Debug\net5.0\SportLibrary.pdb
